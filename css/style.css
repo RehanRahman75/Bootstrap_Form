@@ -1,0 +1,33 @@
+img{
+	max-width: 100%;
+}
+
+
+header{
+	background-color: #f14d91;
+	padding: 150px;
+	text-align: center;
+}
+header h1{
+	font-size: 60px;    
+    color: #fff;
+    text-shadow: 2px 7px 0 #0000002b;
+    font-weight: 700
+}
+
+.signup-section{
+	padding: 50px 0;
+
+}
+
+.Information{
+	color: white;
+	background-color: #f14d91;
+	border-radius: 30px;
+	
+}
+
+.login-section .row{
+	height: 100vh;
+	align-items: center;
+}
